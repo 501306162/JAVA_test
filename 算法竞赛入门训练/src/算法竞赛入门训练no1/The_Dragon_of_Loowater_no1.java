@@ -1,4 +1,4 @@
-package 算法竞赛入门训练;
+package 算法竞赛入门训练no1;
 
 import java.util.Arrays;
 import java.util.Scanner;
