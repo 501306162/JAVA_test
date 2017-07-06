@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;算法竞赛入门经典2_5.算法竞赛入门经典2_5_1&apos; to &apos;算法竞赛入门经典no1_水仙花数&apos;&#x0D;&#x0A;- Original project: &apos;算法竞赛入门训练&apos;&#x0D;&#x0A;- Original element: &apos;算法竞赛入门经典2_5.算法竞赛入门经典2_5_1&apos;&#x0D;&#x0A;- Renamed element: &apos;算法竞赛入门经典2_5.算法竞赛入门经典no1_水仙花数&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;算法竞赛入门经典2_5_1&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;算法竞赛入门经典2_5{算法竞赛入门经典2_5_1.java[算法竞赛入门经典2_5_1" matchStrategy="1" name="算法竞赛入门经典no1_水仙花数" qualified="false" references="true" similarDeclarations="false" stamp="1499347811349" textual="false" version="1.0"/>
+</session>
